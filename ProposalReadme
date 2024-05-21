@@ -77,6 +77,8 @@ Entity-Relationship Diagram (ERD) for the UIAfood system:
 
 
 Entities:
+![ERD WEB DEV](https://github.com/tanvironb/tanvironb/assets/170326332/2bfdbd6c-1112-4916-a7fc-d67c3c9e24b5)
+
 User: Represents users of the system, including students and potentially staff/faculty.
 
 
