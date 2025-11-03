@@ -2,7 +2,6 @@
 - 👀 I’m interested in System dev, UI/UX my new interest
 - 🌱 I’m currently learning more about UI/UX and backend
 - 📫 Reach me on insta: https://www.instagram.com/tanvironb/
-- 😄 Pronouns: He
 - ⚡ Fun fact: loves to travel and a bit lazy
 
 <!---
